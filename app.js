@@ -2,7 +2,6 @@ let player = {
   name: "norm",
   chips: 1000,
 };
-
 let cards = [];
 let sum = 0;
 let hasBlackJack = false;
